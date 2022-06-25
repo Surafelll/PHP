@@ -1,6 +1,8 @@
-<?php
+<body align=center>
+    <?php
 
-echo "<h1>Hello PHP</h1>";
-print '<input type=button value=click>  ' ;
+    echo "<h1>Hello PHP</h1>";
+    print '<input type=button value=click>  ';
 
-?>
+    ?>
+</body>
